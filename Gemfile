@@ -1,6 +1,8 @@
 source 'https://rubygems.org'
 
 gem 'rails', '4.0.3'
+gem 'sass-rails'
+gem 'coffee-rails'
 gem 'activesupport', require: 'active_support'
 gem 'uglifier'
 gem 'jquery-rails'

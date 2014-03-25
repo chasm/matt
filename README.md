@@ -1,3 +1,3 @@
-# WDI Four Project Curriculum
+# TottyCat
 
-## Project 2: ToddyCat
+## All about them résumés
